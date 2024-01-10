@@ -1,6 +1,6 @@
 from src.MLProject.config.configuration import ConfigurationManager
 from src.MLProject.components.data_validation import DataValidation
-from MLProject import logger
+from src.MLProject import logger
 
 STAGE_NAME =" Data Validation stage"
 

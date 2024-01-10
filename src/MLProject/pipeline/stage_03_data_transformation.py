@@ -1,6 +1,6 @@
 from src.MLProject.config.configuration import ConfigurationManager
 from src.MLProject.components.data_transformation import DataTransformation
-from MLProject import logger
+from src.MLProject import logger
 from pathlib import Path
 
 STAGE_NAME = "Data Transformation stage"
@@ -14,14 +14,14 @@ class DataTransformationTrainingPipeline:
             with open(Path("artifacts/data_validation/status.txt"), "r") as f:
                 status = f.read().split(" ")[-1]
 
-            if status == "True":
+            if status == "False":
                 config=ConfigurationManager()
                 data_transformation_config=config.get_data_transformation_config()
                 data_transformation=DataTransformation(config=data_transformation_config)
                 data_transformation.train_test_spliting()
 
             else:
-                raise exception("Data Schema is not valid")
+                raise Exception("Data Schema is not valid")
         except Exception as e:
             print(e) 
             
