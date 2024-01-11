@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Wine-Quality---ML-Project-with-MLFlow/mlruns/0/247dd31ebf8d45dc81bf72cde8fb61dc/artifacts
+end_time: 1704945947239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 247dd31ebf8d45dc81bf72cde8fb61dc
+run_name: charming-gnu-654
+run_uuid: 247dd31ebf8d45dc81bf72cde8fb61dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704945943435
+status: 3
+tags: []
+user_id: Kavya

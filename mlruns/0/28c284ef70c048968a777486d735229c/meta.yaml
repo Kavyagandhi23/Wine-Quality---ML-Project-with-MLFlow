@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Wine-Quality---ML-Project-with-MLFlow/mlruns/0/28c284ef70c048968a777486d735229c/artifacts
+end_time: 1704945451834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28c284ef70c048968a777486d735229c
+run_name: unruly-flea-847
+run_uuid: 28c284ef70c048968a777486d735229c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704945448758
+status: 3
+tags: []
+user_id: Kavya

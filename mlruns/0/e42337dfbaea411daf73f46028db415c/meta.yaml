@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Wine-Quality---ML-Project-with-MLFlow/mlruns/0/e42337dfbaea411daf73f46028db415c/artifacts
+end_time: 1704931927113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e42337dfbaea411daf73f46028db415c
+run_name: debonair-yak-838
+run_uuid: e42337dfbaea411daf73f46028db415c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704931923760
+status: 3
+tags: []
+user_id: Kavya

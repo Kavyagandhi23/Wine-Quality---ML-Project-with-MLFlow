@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Wine-Quality---ML-Project-with-MLFlow/mlruns/0/5c0f6b59177e43d6870cf5e2cea258bc/artifacts
+end_time: 1704948260267
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c0f6b59177e43d6870cf5e2cea258bc
+run_name: fearless-fish-932
+run_uuid: 5c0f6b59177e43d6870cf5e2cea258bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704948253349
+status: 3
+tags: []
+user_id: Kavya

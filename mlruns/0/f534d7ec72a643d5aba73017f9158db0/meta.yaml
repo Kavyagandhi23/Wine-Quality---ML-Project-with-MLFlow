@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Wine-Quality---ML-Project-with-MLFlow/mlruns/0/f534d7ec72a643d5aba73017f9158db0/artifacts
+end_time: 1704948494602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f534d7ec72a643d5aba73017f9158db0
+run_name: painted-smelt-179
+run_uuid: f534d7ec72a643d5aba73017f9158db0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704948490828
+status: 3
+tags: []
+user_id: Kavya
