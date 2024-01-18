@@ -17,7 +17,7 @@
 
 MLFLOW_TRACKING_URI=https://dagshub.com/Kavyagandhi23/Wine-Quality---ML-Project-with-MLFlow.mlflow \
 MLFLOW_TRACKING_USERNAME=Kavyagandhi23 \
-MLFLOW_TRACKING_PASSWORD=4c6532b7bb99a25598dbd282409c9bf5704d3e3c \
+MLFLOW_TRACKING_PASSWORD="******" \
 python script.py
 
 
