@@ -14,7 +14,7 @@
 9. Update app.py
 
 **template.py** file to create files and folders using Python script. __init__.py is initialized to make the local package and import the objects.
- * .github folder is created to deploy the CI?CD Pipeline. As the .github folder can't commit without having a file, therefore .gitkeep file is created within it.
+ * .github folder is created to deploy the CI/CD Pipeline. As the .github folder can't commit without having a file, therefore .gitkeep file is created within it.
  * config.yaml/config - to make all the configurations related to this project.
  * requirements.txt - install required libraries for this project.
      * python-box to make all the configuration tasks easy to organize and neatly write code.
@@ -22,7 +22,7 @@
      * ensure==1.0.2
      * joblib
      * types-PyYAML
-     * -e . look for the setup.py file.
+     * -e . look for the setup.py file, which consists of information on the local package.
  * setup.py stores local package information.
 
 MLFLOW_TRACKING_URI=https://dagshub.com/Kavyagandhi23/Wine-Quality---ML-Project-with-MLFlow.mlflow \
